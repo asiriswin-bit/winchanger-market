@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "channel": "stable",
+  "version": "1.0.0",
+  "publishedAt": "2026-07-28T13:06:13.659Z",
+  "releaseNotes": "Первый подписанный релиз WINchanger: безопасная доставка через GitHub Release, x86_64 и arm64-v8a.",
+  "minimumLoaderVersion": "1.0.0",
+  "assets": [
+    {
+      "architecture": "x86_64",
+      "downloadUrl": "https://github.com/asiriswin-bit/Winchangerkwoenlndnwc3d./releases/download/overlay-v1.0.0/winchanger-x86_64",
+      "sha256": "0ae19df12d3804396995e2eb7e49a9ff1ea15edba7e49185c8a78974a1ba21c8",
+      "sizeBytes": 7039392,
+      "signatureAlgorithm": "Ed25519",
+      "signature": "zcz_e-xJmyL_bKuZN2X8iJXM5WzWHqGHC-CYRB95Z3dBzyoDCwhjyP_-TDT3DhiE6G394qF5kzuo_VKHHiLsDw"
+    },
+    {
+      "architecture": "arm64-v8a",
+      "downloadUrl": "https://github.com/asiriswin-bit/Winchangerkwoenlndnwc3d./releases/download/overlay-v1.0.0/winchanger-arm64-v8a",
+      "sha256": "535755062759907e7e9e29607d03757e8f5e2895c6ebfbc4752d04c82ec87181",
+      "sizeBytes": 5937312,
+      "signatureAlgorithm": "Ed25519",
+      "signature": "V-ZXQ8Bj_-h0q2E7J53ZQmdL3zyYLBePk0_ekmp78Zw0Pl_8_P6GKTcd4ik8vN6OM_Q3yB5IEKUZaj8ZS94ODA"
+    }
+  ],
+  "signature": {
+    "algorithm": "Ed25519",
+    "keyId": "market-2026-01",
+    "value": "PeH8n-y_y0EiW_D1BdwdV8dje0Hpq_9r9RSZ9bYGFh1KhlNB4a6g2Cr-MZ2EU4A9J2mM0-pqo2zC1OeOmO3UCQ"
+  }
+}
