@@ -1,31 +1,31 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "version": "1.0.0",
-  "publishedAt": "2026-07-28T13:36:07.024Z",
-  "releaseNotes": "Первый подписанный релиз WINchanger: безопасная доставка через GitHub Release, x86_64 и arm64-v8a.",
+  "version": "1.0.1",
+  "publishedAt": "2026-07-28T17:18:24.329Z",
+  "releaseNotes": "Исправлены облачная публикация, применение конфигов между разными видами оружия, перенос украшений и иконка облака.",
   "minimumLoaderVersion": "1.0.0",
   "assets": [
     {
       "architecture": "x86_64",
-      "downloadUrl": "https://github.com/asiriswin-bit/Winchangerkwoenlndnwc3d./releases/download/overlay-v1.0.0/winchanger-x86_64",
-      "sha256": "0ae19df12d3804396995e2eb7e49a9ff1ea15edba7e49185c8a78974a1ba21c8",
-      "sizeBytes": 7039392,
+      "downloadUrl": "https://github.com/asiriswin-bit/winchanger-market/releases/download/overlay-v1.0.1/winchanger-x86_64",
+      "sha256": "742b68b8a1069199e214b368f48d1264faf3788e6bf8d4b8f4170c86761295ee",
+      "sizeBytes": 7059904,
       "signatureAlgorithm": "Ed25519",
-      "signature": "zcz_e-xJmyL_bKuZN2X8iJXM5WzWHqGHC-CYRB95Z3dBzyoDCwhjyP_-TDT3DhiE6G394qF5kzuo_VKHHiLsDw"
+      "signature": "oafX_v6GFIYcq-yMNh7_AolmHs20NT0wgHqO3zqDFU1x3hCbP9R4vRFm9UpMvduvwgvpn7yro1KnfPPeG698Bg"
     },
     {
       "architecture": "arm64-v8a",
-      "downloadUrl": "https://github.com/asiriswin-bit/Winchangerkwoenlndnwc3d./releases/download/overlay-v1.0.0/winchanger-arm64-v8a",
-      "sha256": "535755062759907e7e9e29607d03757e8f5e2895c6ebfbc4752d04c82ec87181",
-      "sizeBytes": 5937312,
+      "downloadUrl": "https://github.com/asiriswin-bit/winchanger-market/releases/download/overlay-v1.0.1/winchanger-arm64-v8a",
+      "sha256": "a98f1451f216466e2fd7e5aa4a9df984e4b962be5ce283af62612ac670912f61",
+      "sizeBytes": 5957832,
       "signatureAlgorithm": "Ed25519",
-      "signature": "V-ZXQ8Bj_-h0q2E7J53ZQmdL3zyYLBePk0_ekmp78Zw0Pl_8_P6GKTcd4ik8vN6OM_Q3yB5IEKUZaj8ZS94ODA"
+      "signature": "Dk0JNiNuHvY1lpn_O8gko_XN12SwH6SVfdUVEBCI4EOzblKlIf9388nd4q12kCN6F74IHHIK9mn-xbdTwbjUDw"
     }
   ],
   "signature": {
     "algorithm": "Ed25519",
     "keyId": "market-2026-01",
-    "value": "uiAeqq2tiHST7O3xsS52BzQ3yJA4LBN8KdxuwvrFwMwk6LyUKN-9_wiixSxeIN1q2VEcMCQ1ZanCfEuVmrFkDA"
+    "value": "2oqoX3wnzfKZ2dobMRANfGLQyC9adAO3Bmfzf9sADO0VJ34KLVkQ8gBhp-MBimzBsbTm5pJjQeyKJ2KTCgYPBA"
   }
 }
