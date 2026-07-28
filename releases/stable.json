@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "channel": "stable",
   "version": "1.0.0",
-  "publishedAt": "2026-07-28T13:06:13.659Z",
+  "publishedAt": "2026-07-28T13:36:07.024Z",
   "releaseNotes": "Первый подписанный релиз WINchanger: безопасная доставка через GitHub Release, x86_64 и arm64-v8a.",
   "minimumLoaderVersion": "1.0.0",
   "assets": [
@@ -26,6 +26,6 @@
   "signature": {
     "algorithm": "Ed25519",
     "keyId": "market-2026-01",
-    "value": "PeH8n-y_y0EiW_D1BdwdV8dje0Hpq_9r9RSZ9bYGFh1KhlNB4a6g2Cr-MZ2EU4A9J2mM0-pqo2zC1OeOmO3UCQ"
+    "value": "uiAeqq2tiHST7O3xsS52BzQ3yJA4LBN8KdxuwvrFwMwk6LyUKN-9_wiixSxeIN1q2VEcMCQ1ZanCfEuVmrFkDA"
   }
 }
