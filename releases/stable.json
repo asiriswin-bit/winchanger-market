@@ -1,31 +1,31 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "version": "1.0.1",
-  "publishedAt": "2026-07-28T17:18:24.329Z",
-  "releaseNotes": "Исправлены облачная публикация, применение конфигов между разными видами оружия, перенос украшений и иконка облака.",
-  "minimumLoaderVersion": "1.0.0",
+  "version": "1.0.2",
+  "publishedAt": "2026-07-30T20:05:34.292Z",
+  "releaseNotes": "Исправлено применение конфигов между любыми типами предметов. Стикеры, щиты и брелоки по-прежнему проверяются по доступным слотам; один предмет нельзя использовать дважды.",
+  "minimumLoaderVersion": "1.0.2",
   "assets": [
     {
       "architecture": "x86_64",
-      "downloadUrl": "https://github.com/asiriswin-bit/winchanger-market/releases/download/overlay-v1.0.1/winchanger-x86_64",
-      "sha256": "742b68b8a1069199e214b368f48d1264faf3788e6bf8d4b8f4170c86761295ee",
-      "sizeBytes": 7059904,
+      "downloadUrl": "https://github.com/asiriswin-bit/winchanger-market/releases/download/overlay-v1.0.2/winchanger-x86_64",
+      "sha256": "475d4ca6558734682348f2e8377a1e15eee3c85c42a3cb1df815317ed06f8ad2",
+      "sizeBytes": 7088576,
       "signatureAlgorithm": "Ed25519",
-      "signature": "oafX_v6GFIYcq-yMNh7_AolmHs20NT0wgHqO3zqDFU1x3hCbP9R4vRFm9UpMvduvwgvpn7yro1KnfPPeG698Bg"
+      "signature": "vu_SjVSfWnL28s555HIZB6-yhAPxswBYTL9mrhNw91TsoPSxLU4h7g7D4UVCny6Bg8GWCVVGiqxXm4U0MPp1Aw"
     },
     {
       "architecture": "arm64-v8a",
-      "downloadUrl": "https://github.com/asiriswin-bit/winchanger-market/releases/download/overlay-v1.0.1/winchanger-arm64-v8a",
-      "sha256": "a98f1451f216466e2fd7e5aa4a9df984e4b962be5ce283af62612ac670912f61",
-      "sizeBytes": 5957832,
+      "downloadUrl": "https://github.com/asiriswin-bit/winchanger-market/releases/download/overlay-v1.0.2/winchanger-arm64-v8a",
+      "sha256": "0c10a9a47915f2023df21f3b0521af75cbc339f109ea0f4657da5396348edac0",
+      "sizeBytes": 5978312,
       "signatureAlgorithm": "Ed25519",
-      "signature": "Dk0JNiNuHvY1lpn_O8gko_XN12SwH6SVfdUVEBCI4EOzblKlIf9388nd4q12kCN6F74IHHIK9mn-xbdTwbjUDw"
+      "signature": "bIJfHgrK4iXFf-Ea4Td_IW9qPk_ZVg_PPSwl7LoUQ0v1MXVzXxtipR5y1KzGTaOKUrTDt7ED4Fxo4HDY3PH8DA"
     }
   ],
   "signature": {
     "algorithm": "Ed25519",
-    "keyId": "market-2026-01",
-    "value": "2oqoX3wnzfKZ2dobMRANfGLQyC9adAO3Bmfzf9sADO0VJ34KLVkQ8gBhp-MBimzBsbTm5pJjQeyKJ2KTCgYPBA"
+    "keyId": "release-2026-02",
+    "value": "dJPrYSY-f3y3Ff-m1QDShy1nGI4FRtKFo6YDooh0Vn8UOsD02KVfdhviw6H25_rSMjBAahegbFQQnfQIuY0fDw"
   }
 }
