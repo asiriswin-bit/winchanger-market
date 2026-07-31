@@ -1,31 +1,31 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "version": "1.0.3",
-  "publishedAt": "2026-07-31T00:33:48.128Z",
-  "releaseNotes": "Добавлены облачные темы WINchanger: полное оформление, фон и изображения вкладок. PNG/JPEG работают на всех поддерживаемых системах; WebP — на Android 11+, а на старых версиях отклоняется заранее без пустого фона.",
+  "version": "1.0.4",
+  "publishedAt": "2026-07-31T18:26:30.759Z",
+  "releaseNotes": "Исправлен безопасный экспорт тем с фоном: относительные media-пути корректно разрешаются внутри каталога WINchanger; сохранены проверки SHA-256, формата и размера.",
   "minimumLoaderVersion": "1.0.2",
   "assets": [
     {
       "architecture": "x86_64",
-      "downloadUrl": "https://github.com/asiriswin-bit/winchanger-market/releases/download/overlay-v1.0.3/winchanger-x86_64",
-      "sha256": "e82c11e108b0dc8595ee2f740b8281f0ce857b3d4ad1c878d3da5310861f0cc4",
-      "sizeBytes": 7170624,
+      "downloadUrl": "https://github.com/asiriswin-bit/winchanger-market/releases/download/overlay-v1.0.4/winchanger-x86_64",
+      "sha256": "1e8bf28ace5c900f9e30f88396b1c5462706ae4c061fb1f0c3c30e3c928c8d22",
+      "sizeBytes": 7174720,
       "signatureAlgorithm": "Ed25519",
-      "signature": "rRQVpLYcEqvsO0clXgkzFMTwKhQpAd4QsUvEtr7n6duWmMiWyRdQtc-iXVN4zmQ1fQGvWrWqulvrejtYZH_MBg"
+      "signature": "BRnW5wKOIZJp9_55p-ytUe0rIWOrUC2BHVPOrO8dE2SqkejJ-aSy0tMBmDqMSZiiquPyHScwd52wY0Clhw_IDQ"
     },
     {
       "architecture": "arm64-v8a",
-      "downloadUrl": "https://github.com/asiriswin-bit/winchanger-market/releases/download/overlay-v1.0.3/winchanger-arm64-v8a",
-      "sha256": "8226ceab53ab0c906d64704ae4ab3e15b6814e8a468a2a6e95951d900b226bfb",
-      "sizeBytes": 6052176,
+      "downloadUrl": "https://github.com/asiriswin-bit/winchanger-market/releases/download/overlay-v1.0.4/winchanger-arm64-v8a",
+      "sha256": "b0cc865384ab3279218ebfd4138828f47b0152296f528efefee3bfaa795f646c",
+      "sizeBytes": 6052160,
       "signatureAlgorithm": "Ed25519",
-      "signature": "_Jr8RJ4-aDbG1Q84X52MwJ4_WKY0ur0i5ZxbCVEAsf4MRlQNiY8wn6JEqIBehqFyyElf0pnb2EfJ3oID2kR7AA"
+      "signature": "nWCr0u5b4Th0jKeYUYKOurv_9DVCqvCU8d4uvj9NY8kjICle6fE-9bLRlcmt21E78sQXHLAb4lSI5-kQG5xQAQ"
     }
   ],
   "signature": {
     "algorithm": "Ed25519",
     "keyId": "release-2026-02",
-    "value": "CJx_3Auo5cY6d4noBOwDjcB3Npx3w4ly_x_BR-lXwBYtE4Bo97cKbSd-dBG1So6Ec6YAWzl2LSbrxtcn6nNiCw"
+    "value": "ZWXPPCjpWENDZ9sGlWboyamqi09HsxBF5sUpCH4A9cK1Txy0G1rZOh8JLKLEbj2mSY6ADHpJLJrSsExtoy8PDw"
   }
 }
