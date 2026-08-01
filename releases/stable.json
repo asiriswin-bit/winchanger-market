@@ -1,31 +1,31 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "version": "1.0.5",
-  "publishedAt": "2026-07-31T20:09:02.174Z",
-  "releaseNotes": "Исправлен полный экспорт конфигов: оружие, ножи, перчатки, гранаты и агенты сохраняются в одном снимке без потери неизменённых позиций и без дублей.",
+  "version": "1.0.6",
+  "publishedAt": "2026-08-01T08:57:57.266Z",
+  "releaseNotes": "Надёжное применение тем: проверка SHA-256, подтверждение активной темы, сохранение после перезапуска, rollback и одноразовая отмена.",
   "minimumLoaderVersion": "1.0.2",
   "assets": [
     {
       "architecture": "x86_64",
-      "downloadUrl": "https://github.com/asiriswin-bit/winchanger-market/releases/download/overlay-v1.0.5/winchanger-x86_64",
-      "sha256": "3eb1bc630f6c192f723c76f177a4e9a3833515f7952826242c824540c1d7c8fd",
-      "sizeBytes": 7174720,
+      "downloadUrl": "https://github.com/asiriswin-bit/winchanger-market/releases/download/overlay-v1.0.6/winchanger-x86_64",
+      "sha256": "7beae4fdb0ecc48c2ac7038426ffcd4810a95c642a334f5939f40857af9b8922",
+      "sizeBytes": 7227968,
       "signatureAlgorithm": "Ed25519",
-      "signature": "Kl082sYnyM79nXrNQJ9X2nMOcx4Z_jzXRmcj7g-691iOKhRWo-AxjAZcx0sEwdxzAIfYjmEEQDVFDz3pg5QOBQ"
+      "signature": "fjfJ0DxQSOOVRLfGMkXpX9rjbA2-Q8nVgD--BG2OgzttTKZSmfLszK4oFMn3eGOoGkek8vP0ejoHMPXfLFZLBQ"
     },
     {
       "architecture": "arm64-v8a",
-      "downloadUrl": "https://github.com/asiriswin-bit/winchanger-market/releases/download/overlay-v1.0.5/winchanger-arm64-v8a",
-      "sha256": "154ee0ea22e5f800fcc4e4fcb5007eb32e0af00dd8a9a51bd0be40d461645180",
-      "sizeBytes": 6052160,
+      "downloadUrl": "https://github.com/asiriswin-bit/winchanger-market/releases/download/overlay-v1.0.6/winchanger-arm64-v8a",
+      "sha256": "764df80042c80460285782188f407293bb82e974caa380ac985271c0a7e7eea6",
+      "sizeBytes": 6093136,
       "signatureAlgorithm": "Ed25519",
-      "signature": "IU9fPOrGXLyzLs-OEmVpHQS4_WKBT6KZkWJszR-iJ3wbyTHf1Kfuiapcrd9_7HtlZPFHSUbpWzenxGJfiTZsAQ"
+      "signature": "hqeBBaM6NB3gqgiHVsG8_F8C7wXu_UhtXLw8cgMafB_G_X8EMtOcDmaT3suLHk3dLIeVmxlRmH6ViKbGkfDUCQ"
     }
   ],
   "signature": {
     "algorithm": "Ed25519",
     "keyId": "release-2026-02",
-    "value": "Ym0-KGYhWmEKiP2JvqlnmxVQzKkvMbrDUYy4BdDDHo0D0Cfefb0ilROA6rcfpriddvE8NZV_UyEKG-zf_Yu5Cg"
+    "value": "-8hrynWlY_1UcPBbANSMWcISTDnrfAfLiivWkwcSKyQmmksTbhryhB6xnVJyW-OYntwr4WnusU52bs8T31U6CA"
   }
 }
