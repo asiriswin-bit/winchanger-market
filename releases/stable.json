@@ -1,31 +1,31 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "version": "1.0.8",
-  "publishedAt": "2026-08-01T20:32:31.845Z",
-  "releaseNotes": "Исправлена сохранность библиотеки skin-конфигов: объединение старых каталогов без удаления, защита от перезаписи при совпадении ID и побайтовое восстановление файлов при применении.",
+  "version": "1.0.10",
+  "publishedAt": "2026-08-08T13:01:27.671Z",
+  "releaseNotes": "Исправлено применение изображений тем: фон загружается из согласованного каталога, а Loader подтверждает установку только после успешной загрузки текстуры.",
   "minimumLoaderVersion": "1.0.3",
   "assets": [
     {
       "architecture": "x86_64",
-      "downloadUrl": "https://github.com/asiriswin-bit/winchanger-market/releases/download/overlay-v1.0.8/winchanger-x86_64",
-      "sha256": "3150a2bba0c9646dd67e5741bee02bc4f35a96d1be43b99f627a99e92d92b09a",
-      "sizeBytes": 9382024,
+      "downloadUrl": "https://github.com/asiriswin-bit/winchanger-market/releases/download/overlay-v1.0.10/winchanger-x86_64",
+      "sha256": "832880e77325d997b063f69598f5fe773b0884ce30217e6d3b1b40b478720899",
+      "sizeBytes": 9382920,
       "signatureAlgorithm": "Ed25519",
-      "signature": "n6sL6_nK6pyKMOkVYN1B29pcPVRPdi4koEYF51j3gvDjfQv86tbq7f_rcQ6irKDFR84WHfkFWsTJDJ9jMyxSBQ"
+      "signature": "82WRAJoPXa-88Tp_ACZ8aj8bBS2o8XfBNnfEK6dvnzpt7ZPAZyADagvVRyhunvOHl6dA_leecXpVSmNjeRQRDQ"
     },
     {
       "architecture": "arm64-v8a",
-      "downloadUrl": "https://github.com/asiriswin-bit/winchanger-market/releases/download/overlay-v1.0.8/winchanger-arm64-v8a",
-      "sha256": "bcbbcac70053ebf4e2107a38a54cf2f810c57e6eeb54656f2ca222b88586b74d",
-      "sizeBytes": 8777624,
+      "downloadUrl": "https://github.com/asiriswin-bit/winchanger-market/releases/download/overlay-v1.0.10/winchanger-arm64-v8a",
+      "sha256": "f47cb196ff88ea47d0872cd5c1125037a94212ef0eaa138046b1f40a8f58d1cb",
+      "sizeBytes": 8778392,
       "signatureAlgorithm": "Ed25519",
-      "signature": "oF61bTHG_1zJB9KF1y4e6e3Sq5DcJgeagzzT4jXBbRa8Wx2BowhLotqXsdYctHov3Nio6ZWDRGmsYnNBgKw2Cg"
+      "signature": "uLlCh_3dYVCvsQx8wUfMYwt41B4-TkVzAagdM1Vp7S0ByR-ztXf0kfXCNR908Hoewrg6j2iAF4yZvaHZSE64Bw"
     }
   ],
   "signature": {
     "algorithm": "Ed25519",
     "keyId": "release-2026-02",
-    "value": "WFEBTWMDLNRyb4r51GioMPhlNqkGLEQ7y2h-jgHI0ekmkbqR2vAFlat-9xMr_dz9Kez_6mcDSGGzWjSWVYdSAw"
+    "value": "EttkeaOhszFJe9fyFMj1e-8TOK38NFV2oQ3Lzy2azbeXVEZUHXAuy4QTQb6Fw5xciz7f8wl992Qxf-kl_TSqDg"
   }
 }
